@@ -5,6 +5,8 @@ import (
 	"testing"
 )
 
+//verification of findChar using strings.IndexByte()
+
 var testStrings []string = []string{
 	"test", "hello world", "how much wood could a woodchuck chuck if a woodchuck could chuck wood",
 }
